@@ -17,6 +17,15 @@ This repository contains various templates designed for Concordia University stu
 
 Each template is organized in its own directory with examples and instructions. Choose the appropriate template for your needs and follow the included documentation.
 
+### VSCode Extension: LaTeX Workshop
+
+If you plan to use these templates in VSCode, we recommend installing the [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) extension. To ensure proper compilation, add LaTeX Workshop flags at the top of your .tex file to specify the correct compilation recipe.
+
+Example:
+```
+%!LW recipe=latexmk (lualatex)
+``` 
+
 ## Contributing
 
 Contributions are welcome! If you have created or modified a template that might be useful for others, please consider submitting a pull request.
