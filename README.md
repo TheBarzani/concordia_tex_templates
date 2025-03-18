@@ -1,7 +1,7 @@
 
 <p align="center">
     <img src="readme_data/concordia_logo_c.png" alt="Concordia University Logo" width="169px" style="vertical-align:middle;"/>
-    <span style="font-size:69px; vertical-align:middle; margin:0 20px;">+</span>
+    <img src="readme_data/plus_sign.png" alt="Plus Sign" width="59px" style="vertical-align:middle; margin: 0 10px"/>
     <img src="readme_data/tex_logo_inverted_outline.png" alt="TeX Logo" width="269px" style="vertical-align:middle;"/>
 </p>
 
