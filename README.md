@@ -1,10 +1,8 @@
 # Concordia Tex Templates
-<div style="display: flex; align-items: center;">
-    <img src="readme_data/concordia_logo_c.png" alt="Concordia University Logo" width="69px"/>
-    <div style="margin-left: 20px;">
-        A collection of unofficial TeX and LaTeX templates for Concordia University academic documents.
-    </div>
-</div>
+<p align="center">
+    <img src="readme_data/concordia_logo_c.png" alt="Concordia University Logo" width="169px"/>
+</p>
+A collection of unofficial TeX and LaTeX templates for Concordia University academic documents.
 
 ## Overview
 
